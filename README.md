@@ -2,5 +2,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladd-png&layout=compact)](https://github.com/vladd-png/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vladd-png)](https://github.com/vladd-png/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vladd)](https://github.com/vladd-png/github-readme-stats)
 
