@@ -3,9 +3,9 @@
 </a>
 </br>
 <a href="https://github.com/vladd-png/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladd-png&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladd-png&layout=compact" />
 </a>
 <a href="https://github.com/vladd-png/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=vladd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vladd" />
 </a>
 
