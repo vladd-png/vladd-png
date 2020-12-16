@@ -1,1 +1,1 @@
-[![vladd's github stats](https://github-readme-stats.vercel.app/api?username=vladd-png)](https://github.com/anuraghazra/github-readme-stats)
+![vladd's github stats](https://github-readme-stats.vercel.app/api?username=vladd-png&show_icons=true&theme=ayu-mirage)
