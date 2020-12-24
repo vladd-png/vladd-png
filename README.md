@@ -5,5 +5,5 @@
 
 
 <a href="https://github.com/vladd-png/github-readme-stats">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladd-png&layout=compact" />
+  <img align="right" width="42.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladd-png&layout=compact" />
  </a>
