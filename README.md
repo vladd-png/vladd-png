@@ -3,9 +3,5 @@
 </a>
 
 
-<a href="https://github.com/vladd-png/github-readme-stats">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vladd" />
-</a>
-
 
 
